@@ -1,0 +1,55 @@
+h1 {
+    color: darkorange;
+    background-color: aqua;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+    font-weight: bold;
+}
+
+h2 {
+    background-color: darkslategray;
+    color: red;
+    font-size: 30px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+img {
+    height: 500px;
+    width: 800px;
+}
+
+img.diff-size {
+    height: 300px;
+    width: 500px;
+}
+
+p,
+ol,
+ul {
+    font-size: 20px;
+}
+
+h3 {
+    color: darkorange;
+    background-color:midnightblue;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.feature {
+    text-align: center;
+    font-size: 25px;
+}
+
+div {
+    font-size: 25px;
+    text-align: center;
+}
+
+h4 {
+    color:rebeccapurple;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace, sans-serif;
+    font-weight: bold;
+}
