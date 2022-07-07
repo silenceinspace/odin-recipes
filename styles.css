@@ -1,9 +1,15 @@
+@font-face {
+    font-family: customFonts;
+    src: url(./fonts/Kingthings_Calligraphica_2.ttf)
+}
+
 h1 {
     color: teal;
     background-color:coral;
     font-size: 40px;
     text-align: center;
-    font-family:'Times New Roman', Times, serif;
+    /* font-family:'Times New Roman', Times, serif; */
+    font-family: customFonts;
     font-weight: bold;
 }
 
@@ -24,4 +30,8 @@ img {
 .middle-page {
     background-color: cornflowerblue;
     color: brown;
+}
+
+* {
+    background-color: darkgrey;
 }
