@@ -1,0 +1,42 @@
+h1 {
+    text-align: center;
+    color: yellow;
+    background-color: blue;
+}
+
+img {
+    height: 400px;
+    width: auto;
+}
+
+h2 {
+    text-align: center;
+    background-color: darkslategray;
+    color: deeppink;
+    font-size: 30px;
+}
+
+.centered {
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.paragraph,
+ol {
+    font-size: 20px;
+}
+
+h3 {
+    text-align: center;
+    background-color: dimgray;
+    color: cyan;
+    font-size: 25px;
+}
+
+#final {
+    text-align: center;
+    font-size: 23px;
+    font-weight: bold;
+    
+}
